@@ -4,6 +4,9 @@ A C++ project that uses **SFML** and **ImGui-SFML** to render and manipulate sha
 Shapes (rectangles & circles) are loaded from a config file, displayed in an SFML window, and controlled via an ImGui GUI.
 
 ---
+## 📸 Preview
+![App Demo](Recording2025-08-27220053-ezgif.com-optimize.gif)
+
 
 ## 🚀 Features
 - Load shape data from `config.txt`.
